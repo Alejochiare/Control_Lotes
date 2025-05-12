@@ -1,0 +1,55 @@
+﻿@model Control_de_Lotes.Models.Cosecha
+
+@{
+    ViewData["Title"] = "Crear Cosecha";
+}
+
+<h4>Cosecha</h4>
+<hr />
+
+<form asp-action="Create">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="row">
+        <div class="col-md-6 form-group">
+            <label asp-for="Fecha" class="control-label">Fecha</label>
+            <input asp-for="Fecha" class="form-control" />
+            <span asp-validation-for="Fecha" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6 form-group">
+            <label asp-for="ProduccionReal" class="control-label">Producción Real</label>
+            <input asp-for="ProduccionReal" class="form-control" />
+            <span asp-validation-for="ProduccionReal" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 form-group">
+            <label asp-for="LoteId" class="control-label">Lote</label>
+            <select asp-for="LoteId" class="form-control" asp-items="ViewBag.LoteId"></select>
+            <span asp-validation-for="LoteId" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6 form-group">
+            <label asp-for="CultivoId" class="control-label">Cultivo</label>
+            <select asp-for="CultivoId" class="form-control" asp-items="ViewBag.CultivoId"></select>
+            <span asp-validation-for="CultivoId" class="text-danger"></span>
+        </div>
+    </div>
+
+    <br />
+    <div class="form-group">
+        <input type="submit" value="Cargar" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

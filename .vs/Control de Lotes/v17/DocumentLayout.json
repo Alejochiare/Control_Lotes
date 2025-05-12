@@ -1,0 +1,1004 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\controllers\\lotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\controllers\\lotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\siembras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\siembras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\motivos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\motivos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\lotes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\lotes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\fumigaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\fumigaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\cosechas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\cosechas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\cultivos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\cultivos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\extras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\extras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\controllers\\cultivoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\controllers\\cultivoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\controllers\\fumigacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\controllers\\fumigacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\controllers\\motivoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\controllers\\motivoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\controllers\\siembrascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\controllers\\siembrascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\fumigaciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\fumigaciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\controllers\\cosechascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\controllers\\cosechascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\extras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\extras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\motivos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\motivos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\cultivos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\cultivos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\cosechas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\cosechas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\lotes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\lotes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\siembras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\siembras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\siembras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\siembras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\siembras\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\siembras\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\siembras\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\siembras\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\lotes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\lotes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\lotes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\lotes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\lotes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\lotes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\fumigaciones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\fumigaciones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\fumigaciones\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\fumigaciones\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\fumigaciones\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\fumigaciones\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\cultivos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\cultivos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\extras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\extras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\cultivos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\cultivos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\cosechas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\cosechas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\cosechas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\cosechas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\cosechas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\cosechas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\motivos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\motivos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\motivos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\motivos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\motivos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\motivos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\models\\cultivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\models\\cultivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\models\\cosecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\models\\cosecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\models\\siembra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\models\\siembra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\controllers\\extrascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\controllers\\extrascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\models\\motivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\models\\motivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\models\\lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\models\\lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\models\\extras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\models\\extras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\models\\fumigacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\models\\fumigacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\data\\migrations\\20250505181924_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\data\\migrations\\20250505181924_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\data\\migrations\\20250505181108_iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\data\\migrations\\20250505181108_iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|c:\\users\\alejo\\desktop\\control de lotes\\control de lotes\\data\\migrations\\20250506143803_agregardestinoasiembra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DF1AF-50B5-40BB-8C0E-DCBB6AC9DBAC}|Control de Lotes\\Control de Lotes.csproj|solutionrelative:control de lotes\\data\\migrations\\20250506143803_agregardestinoasiembra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CultivosController.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\CultivosController.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Controllers\\CultivosController.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\CultivosController.cs",
+              "RelativeToolTip": "Control de Lotes\\Controllers\\CultivosController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:13:43.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T19:07:43.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\LotesController.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Controllers\\LotesController.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\LotesController.cs",
+              "RelativeToolTip": "Control de Lotes\\Controllers\\LotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:15:29.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Motivos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Motivos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Motivos\\Index.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Motivos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T15:11:29.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Fumigaciones\\Index.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Fumigaciones\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Fumigaciones\\Index.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Fumigaciones\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T18:36:05.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Lotes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Lotes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Lotes\\Index.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Lotes\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T14:55:34.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cultivos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Cultivos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cultivos\\Index.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Cultivos\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T15:10:13.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Extras\\Index.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Extras\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Extras\\Index.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Extras\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T15:10:36.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cosechas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Cosechas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cosechas\\Index.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Cosechas\\Index.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T14:47:56.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Siembras\\Index.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Siembras\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Siembras\\Index.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Siembras\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T18:36:12.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T17:37:58.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FumigacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\FumigacionesController.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Controllers\\FumigacionesController.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\FumigacionesController.cs",
+              "RelativeToolTip": "Control de Lotes\\Controllers\\FumigacionesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:15:01.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MotivosController.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\MotivosController.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Controllers\\MotivosController.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\MotivosController.cs",
+              "RelativeToolTip": "Control de Lotes\\Controllers\\MotivosController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAwwJUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:15:59.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SiembrasController.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\SiembrasController.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Controllers\\SiembrasController.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\SiembrasController.cs",
+              "RelativeToolTip": "Control de Lotes\\Controllers\\SiembrasController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:27:01.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Fumigaciones\\Create.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Fumigaciones\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Fumigaciones\\Create.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Fumigaciones\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:43:07.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CosechasController.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\CosechasController.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Controllers\\CosechasController.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\CosechasController.cs",
+              "RelativeToolTip": "Control de Lotes\\Controllers\\CosechasController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:13:01.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Extras\\Create.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Extras\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Extras\\Create.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Extras\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T18:02:02.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Motivos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Motivos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Motivos\\Create.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Motivos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:36:54.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cultivos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Cultivos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cultivos\\Create.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Cultivos\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T18:01:40.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Lotes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Lotes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Lotes\\Create.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Lotes\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T15:18:16.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Siembras\\Create.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Siembras\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Siembras\\Create.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Siembras\\Create.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T18:29:53.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Lotes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Lotes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Lotes\\Details.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Lotes\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:36:22.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Lotes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Lotes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Lotes\\Edit.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Lotes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:36:39.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Siembras\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Siembras\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Siembras\\Delete.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Siembras\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:46:10.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cosechas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Cosechas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cosechas\\Create.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Cosechas\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T15:56:44.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Siembras\\Details.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Siembras\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Siembras\\Details.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Siembras\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:46:16.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Siembras\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Siembras\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Siembras\\Edit.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Siembras\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:46:26.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Program.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Program.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Program.cs",
+              "RelativeToolTip": "Control de Lotes\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:46:57.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Lotes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Lotes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Lotes\\Delete.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Lotes\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:36:04.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Extras\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Extras\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Extras\\Edit.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Extras\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:40:57.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Fumigaciones\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Fumigaciones\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Fumigaciones\\Delete.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Fumigaciones\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:43:21.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Fumigaciones\\Details.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Fumigaciones\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Fumigaciones\\Details.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Fumigaciones\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:43:33.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Fumigaciones\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Fumigaciones\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Fumigaciones\\Edit.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Fumigaciones\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:43:43.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cultivos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Cultivos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cultivos\\Edit.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Cultivos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:39:48.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cultivos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Cultivos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cultivos\\Delete.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Cultivos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:39:29.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cosechas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Cosechas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cosechas\\Edit.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Cosechas\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:38:47.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cosechas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Cosechas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cosechas\\Delete.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Cosechas\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:38:23.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Motivos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Motivos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Motivos\\Edit.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Motivos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:37:24.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Motivos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Motivos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Motivos\\Details.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Motivos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:37:07.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Motivos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Motivos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Motivos\\Delete.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Motivos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:37:01.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cosechas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Cosechas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Cosechas\\Details.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Cosechas\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T15:56:56.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T18:17:12.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T18:16:51.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Control de Lotes\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Control de Lotes\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-09T15:51:08.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Cultivos.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Cultivos.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Models\\Cultivos.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Cultivos.cs",
+              "RelativeToolTip": "Control de Lotes\\Models\\Cultivos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:46:29.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Cosecha.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Cosecha.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Models\\Cosecha.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Cosecha.cs",
+              "RelativeToolTip": "Control de Lotes\\Models\\Cosecha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:46:07.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Siembra.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Siembra.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Models\\Siembra.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Siembra.cs",
+              "RelativeToolTip": "Control de Lotes\\Models\\Siembra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:45:24.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ExtrasController.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\ExtrasController.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Controllers\\ExtrasController.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\ExtrasController.cs",
+              "RelativeToolTip": "Control de Lotes\\Controllers\\ExtrasController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAcwBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:14:23.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Motivos.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Motivos.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Models\\Motivos.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Motivos.cs",
+              "RelativeToolTip": "Control de Lotes\\Models\\Motivos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:46:45.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T15:29:18.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T18:17:10.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20250506143803_AgregarDestinoASiembra.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Data\\Migrations\\20250506143803_AgregarDestinoASiembra.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Data\\Migrations\\20250506143803_AgregarDestinoASiembra.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Data\\Migrations\\20250506143803_AgregarDestinoASiembra.cs",
+              "RelativeToolTip": "Control de Lotes\\Data\\Migrations\\20250506143803_AgregarDestinoASiembra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:38:03.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Control de Lotes\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:24:43.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Lote.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Lote.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Models\\Lote.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Lote.cs",
+              "RelativeToolTip": "Control de Lotes\\Models\\Lote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:45:03.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250505181924_inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Data\\Migrations\\20250505181924_inicio.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Data\\Migrations\\20250505181924_inicio.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Data\\Migrations\\20250505181924_inicio.cs",
+              "RelativeToolTip": "Control de Lotes\\Data\\Migrations\\20250505181924_inicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:19:24.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Control de Lotes\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Control de Lotes\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T18:17:04.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\appsettings.json",
+              "RelativeDocumentMoniker": "Control de Lotes\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\appsettings.json",
+              "RelativeToolTip": "Control de Lotes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T18:09:40.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250505181108_iniciar.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Data\\Migrations\\20250505181108_iniciar.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Data\\Migrations\\20250505181108_iniciar.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Data\\Migrations\\20250505181108_iniciar.cs",
+              "RelativeToolTip": "Control de Lotes\\Data\\Migrations\\20250505181108_iniciar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:11:08.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Extras.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Extras.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Models\\Extras.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Extras.cs",
+              "RelativeToolTip": "Control de Lotes\\Models\\Extras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:06:23.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Fumigacion.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Fumigacion.cs",
+              "RelativeDocumentMoniker": "Control de Lotes\\Models\\Fumigacion.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Control de Lotes\\Control de Lotes\\Models\\Fumigacion.cs",
+              "RelativeToolTip": "Control de Lotes\\Models\\Fumigacion.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:45:40.816Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

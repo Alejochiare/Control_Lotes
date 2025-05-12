@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Control de Lotes.props" />
+</Project>

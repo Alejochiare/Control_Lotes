@@ -1,0 +1,203 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Control_de_Lotes
+build_property.RootNamespace = Control_de_Lotes
+build_property.ProjectDir = C:\Users\Alejo\Desktop\Control de Lotes\Control de Lotes\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Alejo\Desktop\Control de Lotes\Control de Lotes
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Cosechas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zZWNoYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Cosechas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zZWNoYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Cosechas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zZWNoYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Cosechas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zZWNoYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Cosechas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zZWNoYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Cultivos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VsdGl2b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Cultivos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VsdGl2b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Cultivos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VsdGl2b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Cultivos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VsdGl2b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Cultivos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VsdGl2b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Extras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Extras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Extras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Extras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Extras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Fumigaciones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVtaWdhY2lvbmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Fumigaciones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVtaWdhY2lvbmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Fumigaciones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVtaWdhY2lvbmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Fumigaciones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVtaWdhY2lvbmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Fumigaciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVtaWdhY2lvbmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Lotes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG90ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Lotes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG90ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Lotes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG90ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Lotes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG90ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Lotes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG90ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Motivos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW90aXZvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Motivos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW90aXZvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Motivos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW90aXZvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Motivos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW90aXZvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Motivos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW90aXZvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Siembras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2llbWJyYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Siembras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2llbWJyYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Siembras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2llbWJyYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Siembras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2llbWJyYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Siembras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2llbWJyYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alejo/Desktop/Control de Lotes/Control de Lotes/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0awaui0wak
