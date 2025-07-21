@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: control-lotes
+    runtime: dotnet
+    buildCommand: dotnet build
+    startCommand: "dotnet 'Control de Lotes.dll'"
+    publishPath: "Control de Lotes/bin/Release/net8.0/publish"
+    plan: free
