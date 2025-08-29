@@ -1,0 +1,115 @@
+﻿@model IEnumerable<Control_de_Lotes.Models.Siembra>
+
+@{
+    ViewData["Title"] = "Siembras";
+}
+
+<h1 class="text-center mb-4">@ViewData["Title"]</h1>
+
+<div class="d-flex justify-content-between align-items-end mb-3">
+
+    <a asp-action="Create" class="btn btn-success">Cargar Siembra</a>
+
+    <form method="get" class="d-flex align-items-end gap-3">
+        <div class="form-group">
+            <label for="LoteId" class="form-label">Lote:</label>
+            <select name="loteId" id="LoteId" class="form-control" style="width: 180px;">
+                <option value="">Seleccionar Lote</option>
+                @foreach (var lote in ViewData["LoteId"] as SelectList)
+                {
+                    <option value="@lote.Value">@lote.Text</option>
+                }
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="CultivoId" class="form-label">Cultivo:</label>
+            <select name="cultivoId" id="CultivoId" class="form-control" style="width: 180px;">
+                <option value="">Seleccionar Cultivo</option>
+                @foreach (var cultivo in ViewData["CultivoId"] as SelectList)
+                {
+                    <option value="@cultivo.Value">@cultivo.Text</option>
+                }
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Filtrar</button>
+    </form>
+</div>
+
+
+<table class="table table-bordered table-striped w-100">
+    <thead>
+        <tr>
+            <th>Fecha</th>
+            <th>Producción Estimativa</th>
+            <th>Cantidad Semillas</th>
+            <th>Superficie Sembrada</th>
+            <th>Destino</th>
+            <th>Lote</th>
+            <th>Cultivo</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Fecha.ToShortDateString()</td>
+                <td>@item.ProduccionEstimativa</td>
+                <td>@item.CantidadSemillas</td>
+                <td>@item.Superficiesembrada</td>
+                <td>@item.Destino</td>
+                <td>@item.Lote.Nombre</td>
+                <td>@item.cultivo.Semilla</td>
+                <td>
+                    <form asp-action="Delete" asp-route-id="@item.Id" method="post" onsubmit="return confirm('¿Estás seguro que deseas eliminar esta siembra?');">
+                        <button type="submit" class="btn btn-danger btn-sm">Eliminar</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+<h5>Contactos Proveedores: Via WhatsApp</h5>
+<button class="btn btn-primary" onclick="openWhatsApp('+5491132036629')">Contacta al Proveedor de Semillas</button>
+
+<script>
+    function openWhatsApp(numero) {
+        var mensaje = "Realiza tu mensaje a dicho Proveedor! 👇";
+        var urlWhatsApp = `https://api.whatsapp.com/send?phone=${numero}&text=${encodeURIComponent(mensaje)}`;
+        window.open(urlWhatsApp, '_blank', 'width=600,height=800');
+    }
+
+</script>
+<nav class="mt-4">
+    <ul class="pagination justify-content-center">
+        @{
+            int currentPage = (int)ViewData["CurrentPage"];
+            int totalPages = (int)ViewData["TotalPages"];
+        }
+
+        @if (currentPage > 1)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-action="Index" asp-route-page="@(currentPage - 1)">Anterior</a>
+            </li>
+        }
+
+        @for (int i = 1; i <= totalPages; i++)
+        {
+            <li class="page-item @(i == currentPage ? "active" : "")">
+                <a class="page-link" asp-action="Index" asp-route-page="@i">@i</a>
+            </li>
+        }
+
+        @if (currentPage < totalPages)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-action="Index" asp-route-page="@(currentPage + 1)">Siguiente</a>
+            </li>
+        }
+    </ul>
+</nav>

@@ -1,0 +1,74 @@
+﻿@model Control_de_Lotes.Models.Siembra
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h4>Siembra</h4>
+<hr />
+<form asp-action="Create">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="row">
+        <div class="col-md-6 form-group">
+            <label class="control-label">Lote</label>
+            <select asp-for="LoteId" class="form-control" asp-items="@(ViewBag.LoteId)"></select>
+        </div>
+        <div class="col-md-6 form-group">
+            <label asp-for="Fecha" class="control-label"></label>
+            <input asp-for="Fecha" class="form-control" />
+            <span asp-validation-for="Fecha" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 form-group">
+            <label class="control-label">Cultivo</label>
+            <select asp-for="CultivoId" class="form-control" asp-items="@(ViewBag.CultivoId)"></select>
+        </div>
+        <div class="col-md-6 form-group">
+            <label class="control-label">Superficie sembrada (ha)</label>
+            <input asp-for="Superficiesembrada" class="form-control" />
+            <span asp-validation-for="Superficiesembrada" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 form-group">
+            <label class="control-label">Cantidad de semillas en KG</label>
+            <input asp-for="CantidadSemillas" class="form-control" />
+            <span asp-validation-for="CantidadSemillas" class="text-danger"></span>
+        </div>
+        <div class="col-md-6 form-group">
+            <label class="control-label">Producción estimada</label>
+            <input asp-for="ProduccionEstimativa" class="form-control" />
+            <span asp-validation-for="ProduccionEstimativa" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 form-group">
+            <label asp-for="Destino" class="control-label"></label>
+            <select asp-for="Destino" class="form-control">
+                <option value="Cosecha">Cosecha</option>
+                <option value="Picado">Picado</option>
+            </select>
+            <span asp-validation-for="Destino" class="text-danger"></span>
+        </div>
+    </div>
+
+    <br />
+    <div class="form-group">
+        <input type="submit" value="Cargar" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

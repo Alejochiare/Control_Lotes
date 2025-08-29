@@ -1,0 +1,48 @@
+﻿@model Control_de_Lotes.Models.Extras
+
+@{
+    ViewData["Title"] = "Crear Extra";
+}
+
+<h4>Agregar Nota Extra</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Nota" class="control-label">Milimetros</label>
+                <input asp-for="Nota" class="form-control" />
+                <span asp-validation-for="Nota" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="LoteId" class="control-label">Lote</label>
+                <select asp-for="LoteId" class="form-control" asp-items="ViewBag.LoteId"></select>
+                <span asp-validation-for="LoteId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                    <label asp-for="Fecha" class="control-label">Fecha</label>
+                    <input asp-for="Fecha" class="form-control" />
+                    <span asp-validation-for="Fecha" class="text-danger"></span>
+                </div>
+
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Cargar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

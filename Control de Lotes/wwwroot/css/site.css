@@ -1,0 +1,82 @@
+/* ======== ESTILOS GENERALES ======== */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* ======== NAVBAR ======== */
+.navbar {
+    background-color: #1e3d59 !important;
+}
+.navbar-brand,
+.nav-link {
+    color: #ffffff !important;
+    font-weight: 500;
+}
+.nav-link:hover {
+    color: #f5b041 !important;
+}
+
+/* ======== CONTENIDO PRINCIPAL ======== */
+.container {
+    padding-top: 30px;
+}
+
+/* ======== FORMULARIOS ======== */
+.form-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+h4 {
+    font-weight: 600;
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+input.form-control,
+select.form-control,
+textarea.form-control {
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+input[type="submit"].btn {
+    width: 100%;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 6px;
+    background-color: #1e3d59;
+    color: white;
+    border: none;
+}
+
+input[type="submit"].btn:hover {
+    background-color: #145374;
+}
+
+/* ======== ENLACES ======== */
+a {
+    color: #145374;
+    font-weight: 500;
+}
+a:hover {
+    color: #f5b041;
+}
+
+/* ======== FOOTER ======== */
+footer {
+    background-color: #1e3d59;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 30px;
+}

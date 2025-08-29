@@ -1,0 +1,112 @@
+﻿@model IEnumerable<Control_de_Lotes.Models.Fumigacion>
+
+@{
+    ViewData["Title"] = "Fumigaciones";
+}
+
+<h1 class="text-center mb-4">@ViewData["Title"]</h1>
+
+<div class="d-flex justify-content-between align-items-end mb-3">
+    
+    <a asp-action="Create" class="btn btn-success">Crear Fumigación</a>
+    <form method="get" class="d-flex align-items-end gap-3">
+        <div class="form-group">
+            <label for="aplicador" class="form-label">Aplicador:</label>
+            <input type="text" id="aplicador" name="aplicador" class="form-control" placeholder="Filtrar por aplicador" onkeyup="filtrarAplicador()" style="width: 180px;">
+        </div>
+
+        <div class="form-group">
+            <label for="loteId" class="form-label">Lote:</label>
+            <select id="loteId" name="loteId" class="form-control" style="width: 180px;">
+                <option value="">Seleccionar Lote</option>
+                @foreach (var item in ViewData["Lotes"] as SelectList)
+                {
+                    <option value="@item.Value">@item.Text</option>
+                }
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Filtrar</button>
+    </form>
+</div>
+
+<table class="table table-bordered table-striped w-100">
+    <thead>
+        <tr>
+            <th>Fecha</th>
+            <th>Producto</th>
+            <th>Dosis</th>
+            <th>Aplicador</th>
+            <th>Lote</th>
+            <th>Motivo</th>  @* ← NUEVO *@
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody id="fumigacionesList">
+        @foreach (var fumigacion in Model)
+        {
+                <tr data-aplicador="@fumigacion.Aplicador.ToLower()">
+                    <td>@fumigacion.Fecha.ToShortDateString()</td>
+                    <td>@fumigacion.Producto</td>
+                    <td>@fumigacion.Dosis</td>
+                    <td>@fumigacion.Aplicador</td>
+                    <td>@fumigacion.Lote?.Nombre</td>
+                    <td>@fumigacion.Motivo?.Descripcion</td>  @* ← NUEVO *@
+                    <td>
+                        <form asp-action="Delete" asp-route-id="@fumigacion.Id" method="post" onsubmit="return confirm('¿Estás seguro que querés eliminar esta fumigación?');">
+                            <button type="submit" class="btn btn-danger btn-sm">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>
+
+
+@section Scripts {
+    <script>
+        function filtrarAplicador() {
+            var input = document.getElementById("aplicador");
+            var filter = input.value.toLowerCase();
+            var table = document.getElementById("fumigacionesList");
+            var rows = table.getElementsByTagName("tr");
+
+            for (var i = 0; i < rows.length; i++) {
+                var aplicadorCell = rows[i].getElementsByTagName("td")[2];
+                if (aplicadorCell) {
+                    var txt = aplicadorCell.textContent || aplicadorCell.innerText;
+                    rows[i].style.display = (filter.length < 2 || txt.toLowerCase().startsWith(filter)) ? "" : "none";
+                }
+            }
+        }
+    </script>
+}
+<nav class="mt-4">
+    <ul class="pagination justify-content-center">
+        @{
+            int currentPage = (int)ViewData["CurrentPage"];
+            int totalPages = (int)ViewData["TotalPages"];
+        }
+
+        @if (currentPage > 1)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-action="Index" asp-route-page="@(currentPage - 1)">Anterior</a>
+            </li>
+        }
+
+        @for (int i = 1; i <= totalPages; i++)
+        {
+            <li class="page-item @(i == currentPage ? "active" : "")">
+                <a class="page-link" asp-action="Index" asp-route-page="@i">@i</a>
+            </li>
+        }
+
+        @if (currentPage < totalPages)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-action="Index" asp-route-page="@(currentPage + 1)">Siguiente</a>
+            </li>
+        }
+    </ul>
+</nav>
